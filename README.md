@@ -3,6 +3,6 @@ This is a Number-Guessing-Game developed using C language . This game will gener
 At the end the game would tell you how good a guesser you are ! 
 If Guesses < 5 : Legend at guessing
 If Guesses < 10 : Good at guessing
-If Guesses > 10 : Bad at guessing 
+If Guesses > 10 : Bad at guessing
 
 So go ahead if you wanna try this game with your friends !
